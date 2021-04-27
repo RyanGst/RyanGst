@@ -15,11 +15,6 @@
 </a>
 
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tmhpkh36vh3klka5ty4ztbi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f45d22)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=f45d22)
@@ -37,6 +32,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGst&langs_count=4&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21tmhpkh36vh3klka5ty4ztbi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 You are the visitor number ![visitors](https://visitor-badge.glitch.me/badge?page_id=RyanGst.id)! DM me at twitter to win a special prize.
