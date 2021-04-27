@@ -14,7 +14,8 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<br/>
+I love meeting new people!\
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f45d22)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=f45d22)
