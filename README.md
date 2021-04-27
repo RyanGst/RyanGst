@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=f45d22)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=f45d22)
 
-
+![Twitter Follow](https://img.shields.io/twitter/follow/ryanlucas_js?color=f45d22)
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGst&show_icons=true&theme=slateorange)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGst&langs_count=4&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
