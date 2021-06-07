@@ -29,7 +29,7 @@ I love meeting new people!
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FF7F00)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=FF7F00)
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGst&show_icons=true&theme=slateorange)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGst&show_icons=true&theme=slateorange&count_private=true))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGst&langs_count=4&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 
