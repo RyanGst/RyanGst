@@ -19,13 +19,9 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=VS_code&logoColor=white&color=FF7F00)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FF7F00)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=FF7F00)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=FF7F00)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=FF7F00)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=FF7F00)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=FF7F00)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=FF7F00)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=FF7F00)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=FF7F00)
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGst&show_icons=true&theme=slateorange&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGst&langs_count=3&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
