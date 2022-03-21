@@ -1,18 +1,7 @@
 ### Hello there 👋
 
 
-<a href="https://discord.gg/RyanG#2214">
-  <img align="left" alt="Ryan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/ryanlucas_js">
-  <img align="left" alt="Ryan Lucas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ryan-lucas-machado/">
-  <img align="left" alt="Ryan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/21tmhpkh36vh3klka5ty4ztbi?si=0-yypN05R2-kKqI4vWVcpw">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FF7F00)
@@ -25,6 +14,16 @@
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanGst&show_icons=true&theme=slateorange&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGst&langs_count=3&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://discord.gg/RyanG#2214">
+  <img align="left" alt="Ryan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/ryanlucas_js">
+  <img align="left" alt="Ryan Lucas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ryan-lucas-machado/">
+  <img align="left" alt="Ryan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 <!--
