@@ -40,5 +40,3 @@ Também tenho experiência com desenvolvimento de aplicações mobile multiplata
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ryangst_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-lucas-machado/)
 
-
-[![Meu Status do Github](https://github-readme-stats.vercel.app/api?username=ryangst&theme=dark)](https://github-readme-stats.vercel.app/api?username=ryangst&theme=dark)
