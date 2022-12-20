@@ -1,8 +1,8 @@
 # Olá, eu sou Ryan Lucas!
 
-Estudo o desenvolvimento de aplicações dentro do ecossistema Javascript, usando bibliotecas frontend como React e Next.js e frameworks backend como Express e Koa.
+Eu sou um desenvolvedor de aplicações mobile pronto para levar seu projeto ao próximo nível, com habilidades em tecnologias como React Native, Java e Kotlin. Tenho um grande fascínio por aprender e me aprofundar em novas tecnologias.
 
-Também tenho experiência com desenvolvimento de aplicações mobile multiplataforma usando React Native e módulos nativos para a plataforma Android usando Java.
+Vamos trabalhar juntos e transformar suas ideias em aplicações incríveis?
 
 ## 🔧 Tecnologias & ferramentas que trabalho atualmente:  
 
