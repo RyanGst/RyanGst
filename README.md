@@ -5,7 +5,7 @@ In addition, I have experience in the JavaScript ecosystem, with skills in front
 
 I'm passionate about learning and delving into new technologies, always seeking to take my projects to the next level. I'm willing to work on projects that challenge my skills and allow me to grow professionally. Let's work together and turn your ideas into amazing applications!
 
-## 🔧 Tecnologias & ferramentas que trabalho atualmente:  
+## 🔧 Techs and tools: 
 
 ### Languages / Runtimes
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
