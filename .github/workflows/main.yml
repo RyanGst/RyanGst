@@ -2,8 +2,11 @@ name: Update README with Status
 
 on:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    # Runs every 2 minutes
+    - cron: '*/2 * * * *'
+
+
+
   workflow_dispatch:
 jobs:
   update-readme:
@@ -13,5 +16,4 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_EDITORS: false
-          SHOW_LINES_OF_CODE: true
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
