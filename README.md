@@ -5,6 +5,10 @@ In addition, I have experience in the JavaScript ecosystem, with skills in front
 
 I'm passionate about learning and delving into new technologies, always seeking to take my projects to the next level. I'm willing to work on projects that challenge my skills and allow me to grow professionally. Let's work together and turn your ideas into amazing applications!
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🔧 Techs and tools: 
 
 ### Languages / Runtimes
@@ -31,4 +35,3 @@ I'm passionate about learning and delving into new technologies, always seeking 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ryangst_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-lucas-machado/)
-
