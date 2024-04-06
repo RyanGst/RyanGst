@@ -7,6 +7,77 @@ I'm passionate about learning and delving into new technologies, always seeking 
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2053%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 307.5 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 19 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3616 commits        █████████░░░░░░░░░░░░░░░░   35.41 % 
+🌆 Daytime                4419 commits        ███████████░░░░░░░░░░░░░░   43.27 % 
+🌃 Evening                2039 commits        █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+🌙 Night                  138 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   2843 commits        ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Tuesday                  1754 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Wednesday                1749 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Thursday                 1634 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Friday                   1825 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Saturday                 104 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Sunday                   303 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               29 repos            █████████░░░░░░░░░░░░░░░░   36.71 % 
+TypeScript               22 repos            ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Kotlin                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/RyanGst/RyanGst/main/assets/bar_graph.png)
+
+
+ Last Updated on 06/04/2024 13:22:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Techs and tools: 
