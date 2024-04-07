@@ -7,9 +7,9 @@ I'm passionate about learning and delving into new technologies, always seeking 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,16 +48,23 @@ Sunday                   303 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               32 mins             █████████████████░░░░░░░░   69.79 % 
+JSON                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+player-collision-novos-po41 mins             ███████████████████████░░   90.62 % 
+RyanGst                  3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+postgrad-game-multiplayer0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+postgrad-games-classes   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      46 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +84,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyanGst/RyanGst/main/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2024 18:46:24 UTC
+ Last Updated on 07/04/2024 18:46:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Techs and tools: 
