@@ -7,7 +7,7 @@ I'm passionate about learning and delving into new technologies, always seeking 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-308%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -15,7 +15,7 @@ I'm passionate about learning and delving into new technologies, always seeking 
 
 > 📦 310.1 kB Used in GitHub's Storage 
  > 
-> 🏆 746 Contributions in the Year 2024
+> 🏆 751 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -26,18 +26,18 @@ I'm passionate about learning and delving into new technologies, always seeking 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3807 commits        █████████░░░░░░░░░░░░░░░░   35.68 % 
-🌆 Daytime                4638 commits        ███████████░░░░░░░░░░░░░░   43.47 % 
-🌃 Evening                2087 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌞 Morning                3809 commits        █████████░░░░░░░░░░░░░░░░   35.68 % 
+🌆 Daytime                4641 commits        ███████████░░░░░░░░░░░░░░   43.48 % 
+🌃 Evening                2087 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
 🌙 Night                  138 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   2890 commits        ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Tuesday                  1922 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Monday                   2895 commits        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Tuesday                  1922 commits        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
 Wednesday                1810 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Thursday                 1727 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Thursday                 1727 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 Friday                   1905 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 Saturday                 108 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 Sunday                   308 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
@@ -88,7 +88,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyanGst/RyanGst/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2024 18:46:07 UTC
+ Last Updated on 13/05/2024 18:48:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Techs and tools: 
