@@ -2,8 +2,8 @@ name: Update Readme with Metrics
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs at 6:30 - BRT
+    - cron: '30 9 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
