@@ -9,7 +9,7 @@ I'm passionate about learning and delving into new technologies, always seeking 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,7 +84,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/RyanGst/RyanGst/main/assets/bar_graph.png)
 
 
- Last Updated on 25/05/2024 09:48:12 UTC
+ Last Updated on 26/05/2024 09:47:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Techs and tools: 
