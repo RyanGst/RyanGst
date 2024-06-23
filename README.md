@@ -7,7 +7,7 @@ I'm passionate about learning and delving into new technologies, always seeking 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-368%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-370%20hrs%2059%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -60,7 +60,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2024 09:44:19 UTC
+ Last Updated on 23/06/2024 09:42:40 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Techs and tools: 
