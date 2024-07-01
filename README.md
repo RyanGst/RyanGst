@@ -7,7 +7,7 @@ I'm passionate about learning and delving into new technologies, always seeking 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-392%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2016%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -60,7 +60,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2024 09:42:48 UTC
+ Last Updated on 01/07/2024 09:46:12 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Techs and tools: 
