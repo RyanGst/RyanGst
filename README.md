@@ -7,7 +7,7 @@ I'm passionate about learning and delving into new technologies, always seeking 
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-504%20hrs%2023%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -59,7 +59,7 @@ Dart                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2024 09:44:34 UTC
+ Last Updated on 18/08/2024 09:44:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Techs and tools: 
