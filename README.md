@@ -36,10 +36,10 @@ Sunday                   449 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -55,7 +55,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2025 09:48:01 UTC
+ Last Updated on 10/03/2025 09:48:46 UTC
 <!--END_SECTION:waka-->
 
 ## 🔧 Techs and tools: 
