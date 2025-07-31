@@ -11,5 +11,5 @@ Over the past few years, I’ve worked on:
 
 Right now I’m doing a **postgrad in mobile development** at UTFPR — and always looking for better ways to ship fast, clean, and reliable code.
 
-[Let's connect!](blog.ryanmac.dev/links)
+[Let's connect!](https://blog.ryanmac.dev/links/)
  
