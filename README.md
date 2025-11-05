@@ -1,15 +1,20 @@
-## 👋 Hey, I’m Ryan Machado  
 **Fullstack engineer from Brazil 🇧🇷**
 
-I like building things that scale — from real-time dashboards to mobile apps — using **TypeScript**, **Vue**, **React**, **Kotlin**, and **Java**.
+I design and build scalable systems — from real-time dashboards to mobile apps — using React, Vue, Kotlin, Node.js and Bun.
 
 Over the past few years, I’ve worked on:
 
-- Shared **monorepos** and component libraries  
-- **Cloud infrastructure** with AWS, Docker, and CDK  
-- Automating tests, deploys, and all the *boring-but-crucial* stuff
+ • System design and distributed architectures (API orchestration, event-driven flows, caching layers)
+ 
+ • Shared monorepos and reusable component libraries
+ 
+ • Cloud infrastructure with AWS, Docker, and CDK
+ 
+ • CI/CD pipelines, automated testing, and performance tuning
 
-Right now I’m doing a **postgrad in mobile development** at UTFPR — and always looking for better ways to ship fast, clean, and reliable code.
+I have a postgraduate degree in mobile development at UTFPR. 
+
+I now work as a tutor helping new students navigate the program.
 
 [Let's connect!](https://blog.ryanmac.dev/links/)
  
