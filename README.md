@@ -17,7 +17,7 @@ Over the past few years, I’ve worked on:
 
 I have a postgraduate degree in mobile development at UTFPR. 
 
-I now work as a tutor helping new students navigate the program.
+I now work as a tutor helping new students navigate the program @ UTFPR
 
-[Let's connect!](https://blog.ryanmac.dev/links/)
+[Let's connect!](https://me.ryanmac.dev/links/)
  
