@@ -1,23 +1,30 @@
-**Fullstack engineer from Brazil 🇧🇷**
+### hi, i'm ryan
 
-I design and build scalable systems — from real-time dashboards to mobile apps — using React, Vue, Kotlin, Node.js and Bun.
+backend and platform engineer with 5+ years of experience building production systems across healthcare, education, and asset management.
 
-<br/>
-Over the past few years, I’ve worked on:
+focus:
+  distributed systems
+  async processing
+  data migrations
+  ci/cd
+  observability
+  aws infrastructure
 
-- System design and distributed architectures (API orchestration, event-driven flows, caching layers)
-  
-- Shared monorepos and reusable component libraries
-  
-- Cloud infrastructure with AWS, Docker, and CDK
-  
-- CI/CD pipelines, automated testing, and performance tuning
+i mostly work with Node.js, TypeScript, Python, Redis, BullMQ, MongoDB, AWS, Docker, and GitHub Actions.
 
-<br/>
+### current work
 
-I have a postgraduate degree in mobile development at UTFPR. 
+at TigerConnect/Twiage, i work on a healthcare platform used by:
 
-I now work as a tutor helping new students navigate the program @ UTFPR
+- 880+ hospitals
+- 1,300+ EMS agencies
 
-[Let's connect!](https://me.ryanmac.dev/links/)
- 
+### availability
+
+based in Brazil, UTC-3.
+
+open to remote Backend Engineer and Platform Engineer roles through direct contractor or employer-of-record arrangements.
+
+<a href="https://wigle.net">
+<img height="30" border="0" src="https://wigle.net/bi/iqsoDlCXqrPxIoOBRGuWFw.png">
+</a> 
